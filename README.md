@@ -1,6 +1,6 @@
 # Frequência de Alunos
 
-Este projeto é uma aplicação para gerenciar a frequência de alunos em turmas. Ele permite adicionar, editar e remover alunos, turmas e registrar a presença dos alunos.
+Este projeto é uma aplicação para gerenciar a frequência de alunos em turmas. Ele permite adicionar e editar alunos, turmas e registrar a presença dos alunos.
 
 ## Funcionalidades
 
@@ -36,7 +36,7 @@ Este projeto é uma aplicação para gerenciar a frequência de alunos em turmas
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/Rian122145/Frequencia-Alunos
    ```
 
 2. Navegue até o diretório do projeto:
